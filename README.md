@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagar-kumbhar-5a85b6169/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Languages:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.kali.org" target="_blank" rel="noreferrer"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABKklEQVR4AYXOIYyDQBRF0esFPqnB1qFxSHxNfRUen+BZNXYNGlGFQaLHTILCoyrGYUj+Fgil00D36PuSR5mrotIPOYLP4lp0+4HYtsovzH7sXvA09m2RnIH7TtBlMS+VTAYniIHgmuYqOUEuT3eUbBi6adBkPpP5REJgnQ8mYXYJIa87kRL6LTABEKnGiihmca23AjlzqZZbipWXwrAGg5WFAepBRp0yCdbgJYSHzMbCA6qPwEK21QAfgYFqC7QPN+0ELZTypobUCUaI5V1jPk4moMTlBhYIVNno9rEfSMtLmJudQGzKxiudYNXrpv4NWZg52GNO4AGlEzgi0DdoDgPxOUsOx0EPlSTckSMKX4QYOQStKL4EinzK5JAl+h5IxD9Bxvg96JSI/AFDYCBmHEw1jwAAAABJRU5ErkJggg==" 
